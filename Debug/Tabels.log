@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\лиля\desktop\лабы\a&ds\tabels\tabels\binarysearchtree.h(5): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\лиля\desktop\лабы\a&ds\tabels\tabels\binarysearchtree.h(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+c:\users\лиля\desktop\лабы\a&ds\tabels\tabels\avltree.h(45): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Tabels.vcxproj -> C:\Users\Лиля\Desktop\Лабы\a&ds\Tabels\Debug\Tabels.exe
+  Tabels.vcxproj -> C:\Users\Лиля\Desktop\Лабы\a&ds\Tabels\Debug\Tabels.pdb (Full PDB)
